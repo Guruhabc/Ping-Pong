@@ -1,0 +1,16 @@
+body
+{
+  text-align: center;
+}
+#canvas
+{
+ border: 2px solid whitesmoke;
+ border-radius: 10px;
+ margin-top: 130px;
+ box-shadow: 5px 5px 5px aquamarine;
+}
+.Pp
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+}
